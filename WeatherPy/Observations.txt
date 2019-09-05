@@ -1,0 +1,15 @@
+Weatherpy Observations:
+
+1.	After looking at the max temp vs lat data, you find the higher max temperatures actually skew towards
+a positive latitude and are not centered around the equator.  Of course, this probably serves as evidence for
+an axial tilt of the Earth which explains seasonal temperature patterns (This data is for August and it's summer in
+the positive latitude ranges)
+
+2.	There is some interesting variablility in humidity. The places with the higher variability of humidity 
+on the planet seems to be centered somewhere near the tropics (~24/-24 degrees) where the equator and outer ranges 
+tend to have less variability.  This could also be an error generated from smaller numbers of samples on the latitudinal
+fringes.
+
+3.	It's hard to discern any easily detictable patterns from cloudiness and windspeed.  This would suggest that
+perhaps latitude has less direct effect on these and it may be useful to compare, let's say windspeed, with latitudinal
+different from the day's jetstream location, etc. 
